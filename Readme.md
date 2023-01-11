@@ -1,4 +1,9 @@
-# Documentation for start_sequence_topics.py and it's functions 
+# Description
+
+This Navigation module was implemented on a real AGV( Botsync’s Volta) and presented as a demonstration for
+”Robot Navigation using Infrastructure Cameras” at the Indian Mobile Congress 2022
+
+# Documentation for Navigation Module
 
 ## Config Params 
 
